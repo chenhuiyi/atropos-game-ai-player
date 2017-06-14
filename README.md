@@ -1,4 +1,4 @@
-# atropos-game-ai-player
+# Atropos Game Ai Player
 Projects developed during the Spring 2017 Artificial Intelligence course at Boston University.
 
 * Designed and implemented an AI player for a board game called Atropos in Python, and achieved top
